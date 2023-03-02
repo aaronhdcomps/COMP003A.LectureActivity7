@@ -1,9 +1,4 @@
-﻿using static System.Collections.Specialized.BitVector32;
-using System.Collections.Generic;
-using System.Drawing;
-using System;
-
-/*
+﻿/*
 * Author: Aaron Abramson
 * Course: COMP-003A
 * Purpose: Array and List Activity Lecture
